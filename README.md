@@ -140,5 +140,3 @@ Dieses Projekt kann als einfache Wegfahrsperre oder Zugangskontrolle genutzt wer
 
 ---
 
-Falls du Fragen oder Verbesserungsvorschläge hast, freue ich mich über dein Feedback!
-
