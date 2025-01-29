@@ -10,7 +10,7 @@ Dieses Projekt implementiert eine einfache Wegfahrsperre mit einem RFID-Modul un
 - **Widerstand (220 Ohm, optional)**
 - **Jumper-Kabel**
 
-## Optional: Installieren der Library
+## Optional: Installieren der Library für das Modul RFID RC522
 Wenn nötig installieren Sie die Library über den folgenden Link: <br>
 https://www.arduinolibraries.info/libraries/mfrc522 <br>
 Fügen Sie den Ordner in Ihren Projekt unter dem Verzeichnis Lib.
