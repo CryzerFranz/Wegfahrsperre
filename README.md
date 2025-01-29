@@ -32,8 +32,8 @@ Dieses Projekt implementiert eine einfache Wegfahrsperre mit einem RFID-Modul un
 1. Das Programm initialisiert den RFID-Reader und die LED.
 2. Wenn eine RFID-Karte in Reichweite kommt, wird ihre UID ausgelesen.
 3. Falls die UID mit der gespeicherten erlaubten UID übereinstimmt, wird die LED geschaltet:
-   - Falls die Wegfahrsperre aktiviert ist, wird sie deaktiviert (LED aus).
-   - Falls die Wegfahrsperre deaktiviert ist, wird sie wieder aktiviert (LED an).
+   - Falls die Wegfahrsperre aktiviert ist, ist die LED aktiviert (LED an).
+   - Falls die Wegfahrsperre deaktiviert ist, ist die LED deaktiviert (LED aus).
 4. Falls die UID nicht erkannt wird, bleibt die Wegfahrsperre aktiv (LED an).
 
 ## Code-Erklärung
